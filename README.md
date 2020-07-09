@@ -22,9 +22,8 @@ The included `content` folder contains various text files (`.txt`), each related
 05. `content/content--gy!be.txt`
 06. `content/content--public-enemy.txt`
 07. `content/content--ramones.txt`
-08. `css/reset.css`
-09. `css/main.css`
-10. `img/`
+08. `css/style.css`
+09. `img/`
 
 ## Rules
 * Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.

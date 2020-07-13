@@ -2,7 +2,9 @@
 
 !.gitignore
 !README.md
-!index.html
+!history-of-the-band.html
+!music-of-the-band.html
+!home.html
 
 !img/
 !css/

@@ -5,3 +5,7 @@ body {
 ul{
    padding-left: 20px;
 }
+abbr {
+   border-bottom: 1px solid white;
+   text-decoration: none;
+}

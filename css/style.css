@@ -5,6 +5,9 @@ body {
 ul{
    padding-left: 20px;
 }
+ol{
+   padding-left: 45px;
+}
 abbr {
    border-bottom: 1px solid white;
    text-decoration: none;

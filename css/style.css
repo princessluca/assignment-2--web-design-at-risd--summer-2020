@@ -1,0 +1,58 @@
+body {
+   background-image: url("../img/paper-texture.jpg");
+   background-repeat: repeat;
+   width: 100%;
+   display: flex;
+   align-content: center;
+   color: Black;
+}
+
+body .content {
+   margin: auto;
+   width: 80%;
+}
+
+body .content .title {
+   width: 100%;
+   height: auto;
+   align-content: center;
+   margin: auto;
+}
+
+body .content .title h1 {
+   width: 100%;
+   height: auto;
+   text-align: center;
+   font-family: courier;
+   text-transform: lowercase;
+   text-decoration: line-through;
+   font-size: 2em;
+   font-weight: lighter;
+}
+
+body .content .img{
+   margin: auto;
+   display: flex;
+   align-content: center;
+   width: 90%;
+   height: auto;
+   padding-top: 2%;
+   padding-bottom: 2%;
+}
+
+body .content .img img {
+   margin: auto;
+   width: 50%;
+   height: auto;
+}
+
+body .content .text {
+   width: 90%;
+   height: auto;
+   margin: auto;
+}
+
+body .content .text p {
+   font-family: courier;
+   text-transform: lowercase;
+}

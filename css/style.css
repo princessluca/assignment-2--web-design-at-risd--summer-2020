@@ -5,6 +5,7 @@ body {
    display: flex;
    align-content: center;
    color: Black;
+   background-color: #FFFFFF;
 }
 
 body .content {
@@ -23,7 +24,7 @@ body .content .title h1 {
    width: 100%;
    height: auto;
    text-align: center;
-   font-family: courier;
+   font-family: courier, serif;
    text-transform: lowercase;
    text-decoration: line-through;
    font-size: 2em;
@@ -53,7 +54,7 @@ body .content .text {
 }
 
 body .content .text p {
-   font-family: courier;
+   font-family: courier,serif;
    text-transform: lowercase;
 }
 
@@ -62,28 +63,20 @@ body .content .text .paragraphs {
    height: auto;
    margin: auto;
    border-top-color: #993333;
-   border-top-style: solid;
+   border-top-style: dashed;
    border-top-width: medium;
+   column-count: 2;
+   background-image: url(../img/background-album.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   padding: 4%;
 }
 
-body .content .text .paragraphs .column1 {
-   width: 45%;
-   height: auto;
-   margin: auto;
-   float: left;
-}
-
-body .content .text .paragraphs .column2 {
-   width: 45%;
-   height: auto;
-   margin: auto;
-   float: right;
-}
-
-body .content .text .paragraphs .column2 a:link {
+body .content .text .paragraphs a:link {
    color: #993333;
 }
 
-body .content .text .paragraphs .column2 a:visited {
+body .content .text .paragraphs a:visited {
    color: black;
 }

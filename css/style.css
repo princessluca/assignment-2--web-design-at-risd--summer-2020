@@ -56,3 +56,34 @@ body .content .text p {
    font-family: courier;
    text-transform: lowercase;
 }
+
+body .content .text .paragraphs {
+   width: 100%;
+   height: auto;
+   margin: auto;
+   border-top-color: #993333;
+   border-top-style: solid;
+   border-top-width: medium;
+}
+
+body .content .text .paragraphs .column1 {
+   width: 45%;
+   height: auto;
+   margin: auto;
+   float: left;
+}
+
+body .content .text .paragraphs .column2 {
+   width: 45%;
+   height: auto;
+   margin: auto;
+   float: right;
+}
+
+body .content .text .paragraphs .column2 a:link {
+   color: #993333;
+}
+
+body .content .text .paragraphs .column2 a:visited {
+   color: black;
+}

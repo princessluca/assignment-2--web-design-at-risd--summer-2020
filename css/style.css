@@ -55,3 +55,27 @@ img {
   top: 358px;
   left: 33px;
 }
+#members h3
+{
+  font-family: 'Didact Gothic', sans-serif;
+  font-size : 21px;
+  letter-spacing : 1.58px;
+  text-transform : uppercase;
+  color : #FFFFFF;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: 53px;
+  top: 627px;
+}
+#members h3 + h3
+{
+  left: 261px;
+}
+#members h3 + h3 + h3
+{
+  left: 500px;
+}
+

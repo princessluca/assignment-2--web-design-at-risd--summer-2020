@@ -48,3 +48,10 @@ img {
   border: 3px solid #fff;
 }
 
+#members img{
+  width: 634px;
+  height: 249px;
+  position: absolute;
+  top: 358px;
+  left: 33px;
+}

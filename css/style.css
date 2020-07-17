@@ -79,3 +79,25 @@ img {
   left: 500px;
 }
 
+#members h4
+{
+  font-family : Helvetica;
+  font-size : 14px;
+  font-weight: lighter;
+  line-height : 90.54px;
+  letter-spacing : 1.05px;
+  background-color: transparent;
+  color : #fff;
+  position: absolute;
+  top: 606.78px;
+  left: 120.82px;
+}
+
+#members h4 + h4
+{
+  left: 347.77px;
+}
+#members h4 + h4 + h4
+{
+  left: 558.49px;
+}

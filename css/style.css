@@ -71,7 +71,13 @@ img {
   color : #fff;
 }
 
+.subColumn
 {
+  float: left;
+  margin: 0;
+  width: 33%;
+}
+
 }
 {
 }

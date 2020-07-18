@@ -46,10 +46,21 @@ img {
   border: 3px solid #fff;
 }
 
+ul
 {
-  margin: 0;
+  list-style: none;
 }
 
+ul, li
+{
+  margin: 0;
+  padding: 0;
+}
+
+ol
+{
+  padding-left: 23px;
+  margin: 0;
 }
 
 #column1

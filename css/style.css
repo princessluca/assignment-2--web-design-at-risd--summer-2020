@@ -11,6 +11,7 @@ body {
    padding: 5px 10px  5px  10px;
    border: 16px ridge #159b51;
    border-radius: 5px;
+   box-shadow: 10px 10px 5px #454d4f;
 }
 
 .bold {

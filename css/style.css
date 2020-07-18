@@ -18,6 +18,10 @@ body {
    text-decoration: underline;
 }
 
+.italic {
+   font-style: italic;  
+}
+
 .quote {
    font-size: 28px;
    font-weight: bold;

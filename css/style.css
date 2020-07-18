@@ -13,7 +13,9 @@ body {
    border-radius: 5px;
 }
 
-.italics {
+.quote {
+   font-size: 28px;
+   font-weight: bold;
    font-style: italic;
 }
 

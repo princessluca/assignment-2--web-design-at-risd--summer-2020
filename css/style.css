@@ -1,4 +1,10 @@
 body {
+   text-align: center;
    background-image: linear-gradient(rgba(0,204,204), rgba(230,255,255));
    font:1.25em 'Oswald', sans-serif;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
 }

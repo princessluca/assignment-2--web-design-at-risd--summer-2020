@@ -5,6 +5,7 @@ body {
 }
 
 .album {
+   color:  #000000;
    background-color: #adddd8;
    font-style: italic;
    padding: 5px 10px  5px  10px;
@@ -12,7 +13,12 @@ body {
    border-radius: 5px;
 }
 
+.italics {
+   font-style: italic;
+}
+
 ol {
+   color:  #000000;
    background-color: #abead8;
    display: inline-block;
    text-align: left;

@@ -69,11 +69,30 @@ ol
   margin: 2.196vw;
   width: calc(50% - 2.196vw * 2);
 }
+
+#column1 h3
 {
+  text-align: center;
   font-family: 'Didact Gothic', sans-serif;
+  font-size : 1.337vw;
   letter-spacing : 1.58px;
   text-transform : uppercase;
+  color : #fff;
   background-color: transparent;
+  margin-top: .5vw;
+  margin-bottom: 0;
+}
+
+#column1 h4
+{
+  text-align: center;
+  font-family : Helvetica;
+  font-size : 1.031vw;
+  font-weight: lighter;
+  letter-spacing : 1.05px;
+  background-color: transparent;
+  color : #fff;
+  margin-top: .5vw;
 }
 
 #column2

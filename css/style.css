@@ -1,5 +1,4 @@
 
-
 header
 {
   background-image: linear-gradient(#fff, 87%, #000);
@@ -10,8 +9,6 @@ header
 
 h1
 {
-  margin-top: 0;
-  margin-bottom: 0;
   padding-top:50px;
   text-align: center;
   font-family : Helvetica;
@@ -35,69 +32,31 @@ h2
   background-color: transparent;
 }
 
-body
 {
-  background-color: black;
-  padding:0;
-  border:0;
   margin: 0;
-  color: #fff;
 }
 
-img {
-  border: 3px solid #fff;
 }
 
-#members img{
-  width: 634px;
-  height: 249px;
-  position: absolute;
-  top: 358px;
-  left: 33px;
 }
-#members h3
 {
   font-family: 'Didact Gothic', sans-serif;
-  font-size : 21px;
   letter-spacing : 1.58px;
   text-transform : uppercase;
-  color : #FFFFFF;
   background-color: transparent;
-  border: 0;
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  left: 53px;
-  top: 627px;
 }
-#members h3 + h3
 {
-  left: 261px;
 }
-#members h3 + h3 + h3
 {
-  left: 500px;
 }
 
-#members h4
 {
   font-family : Helvetica;
-  font-size : 14px;
   font-weight: lighter;
-  line-height : 90.54px;
-  letter-spacing : 1.05px;
-  background-color: transparent;
   color : #fff;
-  position: absolute;
-  top: 606.78px;
-  left: 120.82px;
 }
 
-#members h4 + h4
 {
-  left: 347.77px;
 }
-#members h4 + h4 + h4
 {
-  left: 558.49px;
 }

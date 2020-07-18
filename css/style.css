@@ -143,5 +143,15 @@ ol
   font-size : 1.337vw;
   color : #fff;
 }
+
+@media (max-width: 835px)
 {
+  header h1
+  {
+    font-size: 14.105vw;
+  }
+  header h2
+  {
+    font-size: 4.34vw;
+  }
 }

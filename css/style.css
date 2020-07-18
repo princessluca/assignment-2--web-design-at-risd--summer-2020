@@ -62,12 +62,26 @@ img {
   margin: 2.196vw;
   width: calc(50% - 2.196vw * 2);
 }
-{
-}
 
+#songs
 {
+  text-align: left;
   font-family : Helvetica;
   font-weight: lighter;
+  font-size : 2.562vw;
+  line-height : 6.565vw;
+  letter-spacing : 0.193vw;
+  color : #fff;
+}
+
+#times
+{
+  text-align: right;
+  font-family : Helvetica;
+  font-weight: lighter;
+  font-size : 1.903vw;
+  line-height : 6.565vw;
+  letter-spacing : 0.143vw;
   color : #fff;
 }
 

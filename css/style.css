@@ -38,6 +38,11 @@ h2
 
 }
 
+#column1
+{
+  float: left;
+  margin: 2.196vw;
+  width: calc(50% - 2.196vw * 2);
 }
 {
   font-family: 'Didact Gothic', sans-serif;
@@ -45,7 +50,12 @@ h2
   text-transform : uppercase;
   background-color: transparent;
 }
+
+#column2
 {
+  float: left;
+  margin: 2.196vw;
+  width: calc(50% - 2.196vw * 2);
 }
 {
 }

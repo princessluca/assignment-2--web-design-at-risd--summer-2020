@@ -14,6 +14,17 @@ body {
    box-shadow: 10px 10px 5px #454d4f;
 }
 
+.tracklist {
+   color:  #000000;
+   background-color: #abead8;
+   font-style: italic;
+   font-weight: bold;
+   font-size: 24px;
+   margin: 10px 10px 0;
+   border: 16px double #29847b;
+   padding: 10px 10px 10px 10px;
+}
+
 .artists {
    margin-top: 10px;
    text-shadow: #fc8d16 1px 0 10px;

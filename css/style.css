@@ -36,3 +36,9 @@ nav {
   padding: 2px;
 }
 
+main {
+  margin: auto;
+  width: 700px;
+  border: 10px double #228B22;
+  padding: 2px;
+}

@@ -41,3 +41,8 @@ ol {
    padding-bottom: 5px;
    border-radius: 25px;
 }
+
+blockquote {
+   padding: 5px 10px  5px  10px;
+   border: 8px dotted #174d59;
+}

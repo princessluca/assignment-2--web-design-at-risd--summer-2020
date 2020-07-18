@@ -175,4 +175,22 @@ a > img
   {
     font-size: 4.34vw;
   }
+  #column1
+  {
+    width: calc(100% - 2.196vw * 2);
+  }
+  #column2
+  {
+    clear: both;
+    width: calc(100% - 2.196vw * 2);
+  }
+  #column h4
+  {
+    font-size: 8.6pt;
+  }
+
+  .review, #column h4
+  {
+    font-size: 11pt;
+  }
 }

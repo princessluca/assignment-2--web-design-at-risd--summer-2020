@@ -78,6 +78,17 @@ img {
   width: 33%;
 }
 
+.review
+{
+  text-align: justify;
+  clear: both;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100%;
+  font-family :'Didact Gothic', sans-serif;
+  font-size : 1.337vw;
+  color : #fff;
 }
 {
 }

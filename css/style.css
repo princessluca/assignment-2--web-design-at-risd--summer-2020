@@ -144,6 +144,15 @@ ol
   color : #fff;
 }
 
+.container .text
+{
+  background-color: transparent;
+  font-family: 'Didact Gothic', sans-serif;
+  color: white;
+  text-align: left;
+}
+
+
 @media (max-width: 835px)
 {
   header h1

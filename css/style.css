@@ -4,6 +4,14 @@ body {
    font:1.25em 'Oswald', sans-serif;
 }
 
+.album {
+   background-color: #adddd8;
+   font-style: italic;
+   padding: 5px 10px  5px  10px;
+   border: 16px ridge #159b51;
+   border-radius: 5px;
+}
+
 ol {
    background-color: #abead8;
    display: inline-block;

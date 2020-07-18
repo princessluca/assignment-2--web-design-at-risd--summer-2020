@@ -14,6 +14,10 @@ body {
    box-shadow: 10px 10px 5px #454d4f;
 }
 
+img {
+   border-radius: 20%;
+}
+
 .tracklist {
    color:  #000000;
    background-color: #abead8;

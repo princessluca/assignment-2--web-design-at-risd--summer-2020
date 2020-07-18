@@ -27,3 +27,12 @@ h3 {
   margin: 5px;
 }
 
+nav {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 65px;
+  width: 250px;
+  border: 6px double #FF8C00;
+  padding: 2px;
+}
+

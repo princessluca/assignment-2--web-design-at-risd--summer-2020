@@ -41,7 +41,8 @@ h2
   background-color: transparent;
 }
 
-img {
+img
+{
   width: 100%;
   border: 3px solid #fff;
 }

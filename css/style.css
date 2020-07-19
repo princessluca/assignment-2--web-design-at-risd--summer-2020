@@ -164,6 +164,18 @@ a > img
   text-align: left;
 }
 
+.line
+{
+  clear: both;
+  width: 100%;
+  height: 0;
+  border: 1.5px solid #fff;
+}
+
+#column1 .line
+{
+  margin-top: 10px;
+}
 
 @media (max-width: 835px)
 {
@@ -184,13 +196,19 @@ a > img
     clear: both;
     width: calc(100% - 2.196vw * 2);
   }
-  #column h4
+
+  #column1 h3
   {
-    font-size: 8.6pt;
+    font-size: 14pt;
   }
 
-  .review, #column h4
+  #column1 h4
   {
-    font-size: 11pt;
+    clear: both;
+  }
+
+  .review, #column1 h4
+  {
+    font-size: 13pt;
   }
 }

@@ -6,4 +6,8 @@ header{
 body {
   background-color: #35A4A9;
   color: #FFFFFF;
+  font-family: 'Mulish', sans-serif;
+  font-size: 1.2rem;
+  margin: 30px;
+}
 }

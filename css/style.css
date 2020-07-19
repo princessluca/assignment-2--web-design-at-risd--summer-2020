@@ -1,3 +1,8 @@
+header{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 6rem;
+  text-align: center;
+}
 body {
   background-color: #35A4A9;
   color: #FFFFFF;

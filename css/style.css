@@ -43,6 +43,7 @@ main > h3 > h4 {
 h4 {
   margin: 10px;
   margin-bottom: -5px;
+  color: #FF8C00;
 }
 
 h3 {
@@ -55,9 +56,9 @@ nav {
   margin: auto;
   margin-bottom: 65px;
   width: 250px;
-  border: 6px double #FF8C00;
+  border: 6px double #FFA500;
   padding: 2px;
-  color: #FF8C00;
+  color: #FFA500;
 }
 
 ul {
@@ -65,7 +66,7 @@ ul {
 }
 
 a {
-  color: #FF8C00;
+  color: #FFA500;
 }
 
 main {

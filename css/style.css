@@ -1,5 +1,15 @@
+HTML {
+  background: #FFFFE0;
+  /*
+  background-image: url('');
+  background-repeat: no-repeat, repeat-y, repeat-x, repeat;
+  background-attachment: scroll, fixed;
+  background-position: top left, top right,
+  background-size: cover,
+  */
+}
+
 body {
-  background-color: #FFFFE0;
   font-family: 'allerta stencil regular', 'futura', sans-serif;
 }
 

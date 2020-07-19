@@ -3,7 +3,7 @@ body {
   font-family: 'allerta stencil regular', 'futura', sans-serif;
 }
 
-header{
+header {
   font-family: 'stenciletta', 'futura', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -11,14 +11,14 @@ header{
   font-size: 40px;
 }
 
-main > h3{
+main > h3 {
   font-family: 'stenciletta', 'futura', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
 }
 
-main > h3 > h4{
+main > h3 > h4 {
   font-weight: 800;
 }
 

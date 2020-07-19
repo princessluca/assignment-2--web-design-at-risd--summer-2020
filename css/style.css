@@ -10,4 +10,7 @@ body {
   font-size: 1.2rem;
   margin: 30px;
 }
+#header {
+  font-size: 2rem;
+}
 }

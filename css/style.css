@@ -53,3 +53,10 @@ nav {
 ul {
   list-style-type: circle;
 }
+
+main {
+  margin: auto;
+  width: 700px;
+  border: 1px dotted #0000;
+  padding: 2px;
+}

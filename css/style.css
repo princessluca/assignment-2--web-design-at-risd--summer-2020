@@ -25,6 +25,9 @@ h2 {background-color: black; color: white; font-size: 4vw; text-align: center;
 .band { font-size: 3vw; 
 }
 
+.tracklist {margin-top: 7vw;
+}
+
 img {
    display: block;
    margin-left: auto;

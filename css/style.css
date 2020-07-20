@@ -3,7 +3,10 @@ background-color: black;
 color: white;
 font-family: IBMplexmono;
 }
-
+h1 {
+  background-color: white;
+  color: black;
+}
 span {
   color: grey;
 }
@@ -27,6 +30,8 @@ i {
 
 footer {
   font-size: 14px;
+  background-color: white;
+  color: black;
 
 }
 

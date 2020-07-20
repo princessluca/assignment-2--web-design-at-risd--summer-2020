@@ -173,8 +173,13 @@ column-rule: 1px solid #ddd;
 column-width: 50px;
 }
 #meow>p {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 #grr {
-  margin-top: 50px;
+  margin-top: 20px;
+}
+#squawk {
+  background-color: yellow;
+  color: white;
+  font-size: 0.1em;
 }

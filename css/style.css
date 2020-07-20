@@ -12,7 +12,7 @@ h1 {
      max-width:25%;
      height:auto;
  }
-#woof {
+div {
   columns: 3;
   column-width: 10px;
   text-align: center;

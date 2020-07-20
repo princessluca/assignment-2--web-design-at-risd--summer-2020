@@ -6,11 +6,33 @@ h1 {
   text-shadow: 30px 20px 0px white;
   width: 400px;
   text-align: center;
+  margin-bottom: 50px;
  }
-
-main > p:nth-child(1) {
+ img {
+     max-width:25%;
+     height:auto;
+ }
+div {
+  columns: 3;
+  column-width: 10px;
   text-align: center;
-  padding-top: 10px;
-  width: 100px;
+  padding-top: 0px;
   margin: auto;
+  column-rule: 3px solid white;
+  column-gap: 0px;
+  background-color: black;
+  color: white;
   }
+
+p {
+  margin-top: 0px;
+  margin: 0px 0px;
+}
+
+body > div:nth-child(2) {
+  columns: 3;
+  column-width: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}

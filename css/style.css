@@ -6,11 +6,11 @@ h1 {
   text-shadow: 30px 20px 0px white;
   width: 400px;
   text-align: center;
-  margin: auto;
  }
 
-main > p:nth-child(1){
-  columns: 400px 3;
-  column-rule: 1px dotted #ccc;
+main > p:nth-child(1) {
   text-align: center;
-}
+  padding-top: 10px;
+  width: 100px;
+  margin: auto;
+  }

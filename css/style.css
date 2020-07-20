@@ -9,12 +9,13 @@ h1 {
   background-color: black;
   color: white;
   margin: 10px 10px 0px 10px;
-  box-shadow: 30px 20px 0px white;
-  text-shadow: 30px 20px 0px black;
+  box-shadow: 30px 25px 0px white;
+  text-shadow: 30px 25px 0px black;
   width: 1500px;
   text-align: left;
   margin-bottom: 15px;
   margin-left: 0px;
+  height: 40px;
 }
 
 
@@ -53,7 +54,7 @@ html {
       background-size: 100% 100%;
       height: 1000px;
     }
-  #moo {
+  /*#moo {
     background-color: black;
     color: white;
     box-shadow: 40px 15px 0px yellow;
@@ -64,16 +65,22 @@ html {
     margin-bottom: 40px;
     letter-spacing: 15px;
   }
+*/
+  #moo {
+    color: black;
+    width: 490px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    letter-spacing: 15px;
+  }
   #buzz {
-    background-color: black;
-    color: white;
-    box-shadow: 40px 15px 0px yellow;
-    text-shadow: 40px 15px 0px black;
+    color: black;
     width: 200px;
     text-align: center;
     margin: auto;
     margin-bottom: 280px;
-    font-size: 1.08em;
+    font-size: 1.05em;
     letter-spacing: 15px;
   }
   #blub1 {
@@ -153,19 +160,13 @@ html {
   font-family: sans-serif;
 }
 #roar {
-  background-color: black;
-  color: white;
-  box-shadow: 40px 15px 0px yellow;
-  text-shadow: 40px 15px 0px black;
+  color: black;
   width: 500px;
   text-align: center;
   margin: auto;
   margin-bottom: 50px;
   letter-spacing: 15px;
 }
-#bekaw {
-  background: white;
-  color: black;
-  width: 50%;
-  box-shadow: 30px 15px 0px yellow;
-       }
+#meow {
+columns: 3;
+}

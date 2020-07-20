@@ -29,10 +29,13 @@ p {
   margin: 0px 0px;
 }
 
-body > div:nth-child(2) {
+#meow {
   columns: 3;
   column-width: 10px;
   text-align: center;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
+}
+main {
+  background-color: #eee;
 }

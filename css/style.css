@@ -173,10 +173,10 @@ column-rule: 1px solid #ddd;
 column-width: 50px;
 }
 #meow>p {
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 #grr {
-  margin-top: 20px;
+  margin-top: 16px;
 }
 #squawk {
   background-color: yellow;

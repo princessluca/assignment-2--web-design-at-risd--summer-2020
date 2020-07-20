@@ -10,9 +10,12 @@ span {
 
 ol {
   color: grey;
-  text-align: center;
+
+}
+ol {
+  list-style: none;
 }
 
 p {
-  color: grey; 
+  color: grey;
 }

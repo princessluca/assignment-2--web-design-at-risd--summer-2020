@@ -169,4 +169,12 @@ html {
 }
 #meow {
 columns: 3;
+column-rule: 1px solid #ddd;
+column-width: 50px;
+}
+#meow>p {
+  margin-bottom: 10px;
+}
+#grr {
+  margin-top: 50px;
 }

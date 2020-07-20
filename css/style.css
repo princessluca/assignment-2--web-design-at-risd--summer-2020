@@ -3,3 +3,16 @@ background-color: black;
 color: white;
 font-family: IBMplexmono;
 }
+
+span {
+  color: grey;
+}
+
+ol {
+  color: grey;
+  text-align: center;
+}
+
+p {
+  color: grey; 
+}

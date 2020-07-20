@@ -8,6 +8,7 @@ main {
 }
 
 body header {
+   color: black;
    font-family: 'Made_Tommy', sans-serif;
    text-align: center;
 }

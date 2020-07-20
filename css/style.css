@@ -8,3 +8,9 @@ h1 {
   text-align: center;
   margin: auto;
  }
+
+main > p:nth-child(1){
+  columns: 400px 3;
+  column-rule: 1px dotted #ccc;
+  text-align: center;
+}

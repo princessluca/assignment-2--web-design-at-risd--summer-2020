@@ -14,13 +14,11 @@ span {
   color: grey;
 }
 
-ol {
-  color: grey;
 
-}
 ol {
   list-style: none;
   font-style: italic;
+    color: grey;
 }
 
 p {
@@ -42,4 +40,8 @@ footer {
 
 q {
   font-style: italic;
+}
+
+b {
+  color: white;
 }

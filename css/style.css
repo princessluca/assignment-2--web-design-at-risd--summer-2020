@@ -117,9 +117,8 @@ html {
   }
   #blub5 {
     position: absolute;
-      top: 480px;
-      right: 630px;
-    background:white;
+      top: 500px;
+      right: 600px;
     color:black;
     font-size: 1.8em;
   }

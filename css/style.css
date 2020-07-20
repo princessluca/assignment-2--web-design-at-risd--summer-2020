@@ -45,12 +45,13 @@ p {
   column-gap: 100px;
 }
 
-html {
+/*html {
       background-image: url("file:///Users/willmcc/Documents/GitHub/assignment-2--web-design-at-risd--summer-2020/img/background.jpg");
       background-position: center center;
       background-size: 100% 100%;
       height: 1000px;
     }
+*/
   #moo {
     background-color: black;
     color: white;

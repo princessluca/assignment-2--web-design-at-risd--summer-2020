@@ -6,6 +6,8 @@ font-family: IBMplexmono;
 h1 {
   background-color: white;
   color: black;
+  padding: 40px;
+  font-size: 64px;
 }
 span {
   color: grey;
@@ -32,6 +34,7 @@ footer {
   font-size: 14px;
   background-color: white;
   color: black;
+  padding: 10px;
 
 }
 

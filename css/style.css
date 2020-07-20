@@ -1,6 +1,8 @@
 body {
    background-color: black;   
    color: white;
+h2, h3, h4 {
+   color: #b41b1b
 }
 ul{
    padding-left: 20px;

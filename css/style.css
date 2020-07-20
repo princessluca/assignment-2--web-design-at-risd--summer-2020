@@ -32,9 +32,10 @@ p {
 #meow {
   columns: 3;
   column-width: 10px;
-  text-align: center;
+  text-align: left;
   background-color: white;
   color: black;
+  column-gap: 5px;
 }
 
 html {

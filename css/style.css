@@ -28,7 +28,7 @@ header>p {
   column-gap: 0px;
   background-color: black;
   color: white;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
   }
 
 p {
@@ -68,11 +68,11 @@ html {
     width: 150px;
     text-align: center;
     margin: auto;
-    margin-bottom: 300px;
+    margin-bottom: 280px;
   }
   #blub1 {
     position: absolute;
-      top: 300px;
+      top: 340px;
       left: 75px;
     background:black;
     color:white;
@@ -80,7 +80,7 @@ html {
   }
   #blub2 {
     position: absolute;
-      top: 400px;
+      top: 440px;
       left: 115px;
     background:white;
     color:black;
@@ -88,7 +88,7 @@ html {
   }
   #blub3 {
     position: absolute;
-      top: 333px;
+      top: 373px;
       right: 95px;
     background:yellow;
     color:black;
@@ -96,7 +96,7 @@ html {
   }
   #blub4 {
     position: absolute;
-      top: 350px;
+      top: 390px;
       right: 500px;
     background:black;
     color:white;
@@ -104,7 +104,7 @@ html {
   }
   #blub5 {
     position: absolute;
-      top: 440px;
+      top: 480px;
       right: 630px;
     background:white;
     color:black;
@@ -112,7 +112,7 @@ html {
   }
   #blub6 {
     position: absolute;
-    top: 270px;
+    top: 310px;
     left: 250px;
     background:yellow;
     color:black;
@@ -120,7 +120,7 @@ html {
   }
   #blub7 {
     position: absolute;
-      top: 430px;
+      top: 470px;
       right: 320px;
     background:yellow;
     color:black;
@@ -128,15 +128,15 @@ html {
   }
 #blub8 {
   position: absolute;
-    top: 270px;
-    right: 250px;
+    top: 310px;
+    right: 280px;
   background:white;
   color:black;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 #blub9 {
   position: absolute;
-    top: 360px;
+    top: 400px;
     left: 340px;
   background:black;
   color:white;
@@ -144,4 +144,14 @@ html {
 }
 html {
   height: 1250px
+}
+#roar {
+  background-color: black;
+  color: white;
+  box-shadow: 40px 15px 0px yellow;
+  text-shadow: 40px 15px 0px black;
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 50px;
 }

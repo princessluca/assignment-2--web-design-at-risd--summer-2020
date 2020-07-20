@@ -68,7 +68,7 @@ html {
     width: 150px;
     text-align: center;
     margin: auto;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
   }
   #blub1 {
     position: absolute;
@@ -84,7 +84,7 @@ html {
       left: 115px;
     background:white;
     color:black;
-    font-size: 1.1em;
+    font-size: 1.65em;
   }
   #blub3 {
     position: absolute;
@@ -104,16 +104,16 @@ html {
   }
   #blub5 {
     position: absolute;
-      top: 480px;
-      right: 620px;
+      top: 440px;
+      right: 630px;
     background:white;
     color:black;
     font-size: 2em;
   }
   #blub6 {
     position: absolute;
-      top: 340px;
-      left: 300px;
+    top: 270px;
+    left: 250px;
     background:yellow;
     color:black;
     font-size: 1em;
@@ -126,3 +126,22 @@ html {
     color:black;
     font-size: 2.3em;
   }
+#blub8 {
+  position: absolute;
+    top: 270px;
+    right: 250px;
+  background:white;
+  color:black;
+  font-size: 1em;
+}
+#blub9 {
+  position: absolute;
+    top: 360px;
+    left: 340px;
+  background:black;
+  color:white;
+  font-size: 1.8em;
+}
+html {
+  height: 1250px
+}

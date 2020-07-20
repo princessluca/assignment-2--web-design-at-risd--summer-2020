@@ -1,6 +1,8 @@
 body {
    background-color: black;   
    color: white;
+   font-family: 'Charcoal CY Regular'; 'Helvetica'
+}
 h2, h3, h4 {
    color: #b41b1b
 }

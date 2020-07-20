@@ -24,6 +24,27 @@ h1 + h1 {
 h1 + h1 + h1 {
    text-align: right;
 }
+
+h2 {
+   font-size: 2em;
+   text-align: center;
+   letter-spacing: 5px;  
+   margin-bottom: 60px;
+}
+
+h3 {
+   font-size: 20px;
+   font-weight: 600;
+   letter-spacing: 5px;
+}
+
+h4 {
+   font-size: 20px;
+   font-style: italic;
+   font-weight: 600;
+   text-align: center;
+   margin: 36px;
+}
 #column1
 {
   float: left;

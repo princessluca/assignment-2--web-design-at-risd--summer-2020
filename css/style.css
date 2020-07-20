@@ -45,6 +45,11 @@ h4 {
    text-align: center;
    margin: 36px;
 }
+
+p {
+   line-height: 24px;
+}
+
 #column1
 {
   float: left;

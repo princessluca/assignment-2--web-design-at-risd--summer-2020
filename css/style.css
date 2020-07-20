@@ -36,6 +36,9 @@ p {
   background-color: white;
   color: black;
 }
-main {
-  background-color: #eee;
-}
+
+html {
+      background-image: url("file:///Users/willmcc/Documents/GitHub/assignment-2--web-design-at-risd--summer-2020/img/background.jpg");
+      background-position: center center;
+      background-size: 100% 100%;
+    }

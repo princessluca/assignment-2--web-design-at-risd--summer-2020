@@ -1,21 +1,29 @@
+h1{
+   font-weight: 600;
+   font-size: 2em;
+}
+h2{
+   font-weight: 400;
+   font-size: 1.7em;
+}
 body{
    text-align: center;
    font-family: 'montserrat', sans-serif;
    font-weight: 200;
    font-size: 1.2em;
-   margin-left: 100px;
-   margin-right: 100px;
    margin-top: 60px;
    margin-bottom: 60px;
    padding: 0px;
 }
 blockquote {
 /*background-color: rgba(13,120,130,0.65);*/
+margin-left: 150px;
+margin-right: 150px;
 }
 iframe {
    margin-top: 40px;
    box-shadow: 5px 5px 50px rgba(0,0,40,1);
-   border-radius: 20px;
+   border-radius: 30px;
    border: 3px;
 }
 ol{
@@ -24,11 +32,15 @@ ol{
    padding-right: 65px;
    padding-top: 30px;
    padding-bottom: 30px;
-   border-radius: 20px;
-   margin-left: 240px;
-   margin-right: 240px;
-   margin-top: 40px;
-   margin-bottom: 40px;
+   border-radius: 30px;
+   /*margin-left: 335px;
+   margin-right: 335px;*/
+   box-sizing: content-box;
+   width: 470px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
    box-shadow: 5px 5px 50px rgba(0,0,40,1);
    font-weight: 400;
    font-size: 1.2em;

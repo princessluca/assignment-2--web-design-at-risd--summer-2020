@@ -2,7 +2,11 @@ body{
    font-family: 'Raleway', sans-serif;;
    background-color: #72a9d0;
    color: white;
+   
 }
+p {  
+   text-indent: 2.0em;  
+   }
 h1,h2,h3{
    font-family: 'MuseoModerno', cursive;
    font-weight: 500

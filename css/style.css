@@ -1,0 +1,185 @@
+
+h2 {
+  font-size: 2em;
+}
+h1 {
+  font-size: 2.2em;
+}
+h1 {
+  background-color: black;
+  color: white;
+  margin: 10px 10px 0px 10px;
+  box-shadow: 30px 25px 0px white;
+  text-shadow: 30px 25px 0px black;
+  width: 1275px;
+  text-align: left;
+  margin-bottom: 15px;
+  margin-left: 0px;
+  height: 40px;
+}
+
+
+header>p {
+  background: yellow;
+  margin-bottom: 30px;
+  color:white;
+  width:250px;
+}
+ img {
+     max-width:25%;
+     height:auto;
+ }
+#woof {
+  columns: 3;
+  column-width: 10px;
+  text-align: center;
+  padding-top: 0px;
+  margin: auto;
+  column-rule: 3px solid white;
+  column-gap: 0px;
+  background-color: black;
+  color: white;
+  margin-bottom: 45px;
+  font-size: 1.3em;
+  }
+
+p {
+  margin-top: 0px;
+  margin: 0px 0px;
+}
+
+
+html {
+      background-image: url(../img/background.jpg);
+      background-position: center center;
+      background-size: 100% 100%;
+      height: 1000px;
+    }
+  /*#moo {
+    background-color: black;
+    color: white;
+    box-shadow: 40px 15px 0px yellow;
+    text-shadow: 40px 15px 0px black;
+    width: 490px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    letter-spacing: 15px;
+  }
+*/
+  #moo {
+    color: black;
+    width: 490px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    letter-spacing: 15px;
+  }
+  #buzz {
+    color: black;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 280px;
+    font-size: 1.05em;
+    letter-spacing: 15px;
+  }
+  #blub1 {
+    position: absolute;
+      top: 340px;
+      left: 75px;
+    background:black;
+    color:white;
+    font-size: 1.3em;
+  }
+  #blub2 {
+    position: absolute;
+      top: 440px;
+      left: 115px;
+    background:white;
+    color:black;
+    font-size: 1.65em;
+  }
+  #blub3 {
+    position: absolute;
+      top: 373px;
+      right: 95px;
+    background:yellow;
+    color:black;
+    font-size: 1.7em;
+  }
+  #blub4 {
+    position: absolute;
+      top: 390px;
+      right: 500px;
+    background:black;
+    color:white;
+    font-size: 1.2em;
+  }
+  #blub5 {
+    position: absolute;
+      top: 500px;
+      right: 600px;
+    color:black;
+    font-size: 1.8em;
+  }
+  #blub6 {
+    position: absolute;
+    top: 310px;
+    left: 250px;
+    background:yellow;
+    color:black;
+    font-size: 1em;
+  }
+  #blub7 {
+    position: absolute;
+      top: 470px;
+      right: 320px;
+    background:yellow;
+    color:black;
+    font-size: 1.9em;
+  }
+#blub8 {
+  position: absolute;
+    top: 310px;
+    right: 280px;
+  background:white;
+  color:black;
+  font-size: 1.1em;
+}
+#blub9 {
+  position: absolute;
+    top: 400px;
+    left: 340px;
+  background:black;
+  color:white;
+  font-size: 1.7em;
+}
+html {
+  height: 1250px;
+  font-family: sans-serif;
+}
+#roar {
+  color: black;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 50px;
+  letter-spacing: 15px;
+}
+#meow {
+columns: 3;
+column-rule: 1px solid #ddd;
+column-width: 50px;
+}
+#meow>p {
+  margin-bottom: 16px;
+}
+#grr {
+  margin-top: 16px;
+}
+#squawk {
+  background-color: yellow;
+  color: white;
+  font-size: 0.1em;
+}

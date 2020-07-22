@@ -1,0 +1,71 @@
+body {
+   text-align: center;
+   background-image: linear-gradient(rgba(0,204,204), rgba(230,255,255));
+   font:1.25em 'Oswald', sans-serif;
+}
+
+.album {
+   color:  #000000;
+   background-color: #adddd8;
+   font-style: italic;
+   padding: 5px 10px  5px  10px;
+   border: 16px ridge #159b51;
+   border-radius: 5px;
+   box-shadow: 10px 10px 5px #454d4f;
+}
+
+img {
+   border-radius: 20%;
+}
+
+.tracklist {
+   color:  #000000;
+   background-color: #abead8;
+   font-style: italic;
+   font-weight: bold;
+   font-size: 24px;
+   margin: 10px 10px 0;
+   border: 16px double #29847b;
+   padding: 10px 10px 10px 10px;
+   border-radius: 5px;
+}
+
+.artists {
+   margin-top: 20px;
+   padding-top: 20px;
+   text-shadow: #fc8d16 1px 0 10px;
+}
+
+.bold {
+   font-weight: bold;
+   text-decoration: underline;
+}
+
+.italic {
+   font-style: italic;  
+}
+
+.quote {
+   font-size: 28px;
+   font-weight: bold;
+   font-style: italic;
+}
+
+ol {
+   color:  #000000;
+   background-color: #abead8;
+   display: inline-block;
+   text-align: left;
+   box-sizing: border-box;
+   margin: 10px 10px 0;
+   border: 16px double #29847b;
+   padding-top: 5px;
+   padding-right: 10px;
+   padding-bottom: 5px;
+   border-radius: 25px;
+}
+
+blockquote {
+   padding: 5px 10px  5px  10px;
+   border: 8px dotted #174d59;
+}

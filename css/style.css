@@ -1,0 +1,44 @@
+body{
+   font-family: 'Raleway', sans-serif;;
+   background-color: #72a9d0;
+   color: white;
+   
+}
+p {  
+   text-indent: 2.0em;  
+   }
+h1,h2,h3{
+   font-family: 'MuseoModerno', cursive;
+   font-weight: 500
+}
+.tabs{
+    width:60%;
+    height:auto;
+    margin:0 auto;
+}
+
+.boxed {
+  border: 2px solid white ;
+  padding: 50px;
+  width:285px;
+}
+.boxed2 {
+  border: 2px solid white ;
+  padding: 50px; 
+}
+
+.bg{
+  width: 100%;
+  z-index: 0;
+  
+}
+.ital{
+   font-style: italic;
+}
+.rightfooter {
+  text-align: right;
+  font-size: 10px
+  
+}
+
+

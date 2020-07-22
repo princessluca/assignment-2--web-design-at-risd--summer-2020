@@ -5,3 +5,8 @@ h1,h2,h3{
    font-family: 'MuseoModerno', cursive;
    font-weight: 500
 }
+.tabs{
+    width:60%;
+    height:auto;
+    margin:0 auto;
+}

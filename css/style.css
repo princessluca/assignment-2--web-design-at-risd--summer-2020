@@ -1,0 +1,43 @@
+body {background-color: black; color: white;
+}
+
+header {background-color: black; color: white;
+}
+
+main {background-color: black; color: white;
+}
+
+footer { background-color: black; color: white;
+}
+
+.title { background-color: black; color: white;
+}
+
+h1 {background-color: black; color: white; font-size: 6vw; text-align: center;
+}
+
+h2 {background-color: black; color: white; font-size: 4vw; text-align: center;
+}
+
+.bandmembers { margin-top: 7vw; font-size: 2vw;
+}
+
+.band { font-size: 3vw; 
+}
+
+.tracklist {margin-top: 7vw;
+}
+
+.byline {
+}
+
+.mag { float:right;
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 60%;
+   height: auto;
+}

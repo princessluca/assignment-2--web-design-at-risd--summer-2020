@@ -8,3 +8,7 @@ h1 {
   text-shadow: 3px 3px 10px #2f4f4f;
   text-align: center;
 }
+
+main {
+  font-family: 'Arial', sans-serif;
+}

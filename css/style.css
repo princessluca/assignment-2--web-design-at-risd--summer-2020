@@ -30,7 +30,7 @@ ul {
   font-size: 1.3rem;
   font-style: italic;
   color: #8c5726;
-  border: 10px dashed #ffff66;
+  border: 10px dashed rgba(255,255,102,0.5);
 }
 
 ol {

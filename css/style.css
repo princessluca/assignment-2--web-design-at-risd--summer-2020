@@ -1,0 +1,23 @@
+header{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 6rem;
+  text-align: center;
+}
+body {
+  background-color: #35A4A9;
+  color: #FFFFFF;
+  font-family: 'Mulish', sans-serif;
+  font-size: 1.2rem;
+  margin: 30px;
+}
+#header {
+  font-size: 2rem;
+}
+#main {
+  font-size: 1.5rem;
+  text-align: center;
+}
+#image {
+  font-size: .8rem;
+  text-align: center;
+}

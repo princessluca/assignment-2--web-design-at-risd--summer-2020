@@ -15,6 +15,7 @@ main {
 
 main > p {
   font-size: 1.5rem;
+  line-height: 1.25;
   text-align: justify;
   margin: 100px 500px;
   padding: 10px 10px;

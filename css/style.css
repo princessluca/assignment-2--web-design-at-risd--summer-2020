@@ -1,0 +1,78 @@
+HTML {
+  background-color: black;
+      /*
+  background-image: url('');
+  background-repeat: no-repeat, repeat-y, repeat-x, repeat;
+  background-attachment: scroll, fixed;
+  background-position: top left, top right,
+  background-size: cover,
+  */
+}
+
+div {
+  background:
+    url("/Users/yu-chuanhsieh/Documents/GitHub/assignment-2--web-design-at-risd--summer-2020/img/1024px-Public_Enemy.png") repeat-y center left,
+    url("/Users/yu-chuanhsieh/Documents/GitHub/assignment-2--web-design-at-risd--summer-2020/img/1024px-Public_Enemy.png") repeat-y center right,
+    transparent;
+}
+body {
+  font-family: 'allerta stencil regular', 'futura', sans-serif;
+  color: white;
+}
+
+header {
+  font-family: 'stenciletta', 'futura', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  font-size: 40px;
+  color:	#32CD32;
+}
+
+main > h3 {
+  font-family: 'stenciletta', 'futura', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+main > h3 > h4 {
+  font-weight: 800;
+}
+
+h4 {
+  margin: 10px;
+  margin-bottom: -5px;
+  margin-left: 20px;
+  color: #FF8C00;
+}
+
+h3 {
+  margin: 5px;
+  color: #DC143C;
+}
+
+nav {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 65px;
+  width: 250px;
+  border: 6px double #FFA500;
+  padding: 2px;
+  color: #FFA500;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a {
+  color: #FFA500;
+}
+
+main {
+  margin: auto;
+  width: 700px;
+  border: 1px dotted #0000;
+  padding: 2px;
+}

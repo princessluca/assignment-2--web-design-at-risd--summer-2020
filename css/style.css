@@ -1,0 +1,18 @@
+body {
+   background-color: #FCFCFC;
+   color: #0D0D0D;
+}
+
+main {
+   margin: auto;
+}
+
+body header {
+   color: black;
+   font-family: 'Made_Tommy', sans-serif;
+   text-align: center;
+}
+
+span {
+   font-style: italic;
+}

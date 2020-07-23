@@ -30,6 +30,11 @@ ul {
   font: italic 700;
 }
 
+ol {
+  font-size: 2rem;
+  text-shadow: 3px 3px 10px rgba(75,0,130,0.8);
+}
+
 a {
   color: #fff;
   text-decoration: none;

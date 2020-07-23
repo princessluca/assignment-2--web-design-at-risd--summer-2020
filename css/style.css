@@ -37,6 +37,7 @@ ol {
   color: #000;
   text-shadow: 3px 3px 30px rgba(34,139,34,1);
   margin: 100px 350px 100px 450px;
+  text-align: right;
 }
 
 a {

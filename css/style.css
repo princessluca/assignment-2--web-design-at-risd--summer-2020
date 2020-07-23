@@ -21,3 +21,7 @@ main > p {
   color: #fff;
   background-color: rgba(75,0,130,0.8)
 }
+
+ul {
+  list-style-type: none;
+}

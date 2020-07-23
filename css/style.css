@@ -14,7 +14,7 @@ main {
 }
 
 main > p {
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-align: justify;
   margin: 100px 500px;
   padding: 10px 10px;

@@ -1,0 +1,51 @@
+body {
+background-color: black;
+color: white;
+font-family: IBMplexmono;
+}
+h1 {
+  background-color: white;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  font-size: 64px;
+}
+span {
+  color: fuchsia;
+}
+span.names {
+  color: grey;
+  
+}
+
+
+ol {
+  list-style: none;
+  font-style: italic;
+    color: grey;
+}
+
+p {
+  color: grey;
+}
+
+i {
+  font-size: 12px;
+}
+
+footer {
+  font-size: 14px;
+  background-color: white;
+  color: black;
+  text-align: right;
+  padding: 10px;
+
+}
+
+q {
+  font-style: italic;
+}
+
+b {
+  color: white;
+}

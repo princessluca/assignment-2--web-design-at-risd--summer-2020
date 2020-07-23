@@ -27,7 +27,7 @@ main > p {
 ul {
   list-style-type: none;
   text-align: center;
-  font: italic 700;
+  font-size: 2rem;
   color: rgba(75,0,130,0.8);
 }
 

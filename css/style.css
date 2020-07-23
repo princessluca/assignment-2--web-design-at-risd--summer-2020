@@ -26,6 +26,9 @@ main > p {
 
 ul {
   list-style-type: none;
+  text-align: center;
+  font: italic 700;
+}
 
 a {
   color: #fff;

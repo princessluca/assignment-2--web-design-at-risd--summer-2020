@@ -1,0 +1,21 @@
+body {
+   background-color: black;   
+   color: white;
+   font-family: 'Charcoal CY Regular'; 'Helvetica'
+}
+h2, h3, h4 {
+   color: #b41b1b
+}
+ul{
+   padding-left: 20px;
+}
+ol{
+   padding-left: 45px;
+}
+abbr {
+   border-bottom: 1px solid white;
+   text-decoration: none;
+}
+a {
+   color: #b743f5
+}

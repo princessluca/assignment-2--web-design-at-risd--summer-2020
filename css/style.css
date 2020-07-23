@@ -32,6 +32,7 @@ ul {
   color: #8c5726;
   border: 10px dashed rgba(255,255,102,0.5);
   border-radius: 70%;
+  padding: 10px 10px;
 }
 
 ol {

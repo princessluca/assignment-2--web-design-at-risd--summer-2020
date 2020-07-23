@@ -28,6 +28,7 @@ ul {
   list-style-type: none;
   text-align: center;
   font: italic 700;
+  color: rgba(75,0,130,0.8);
 }
 
 ol {

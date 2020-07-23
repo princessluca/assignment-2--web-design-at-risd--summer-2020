@@ -1,3 +1,10 @@
 html {
   background-image: url(../img/tux-background.JPG)
 }
+
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-variant: small-caps;
+  text-shadow: 3px 3px 10px #2f4f4f;
+  text-align: center;
+}
